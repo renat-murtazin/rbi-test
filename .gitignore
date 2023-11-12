@@ -1,0 +1,17 @@
+Copy code
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled Python files
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
